@@ -6,3 +6,7 @@
 
 > SwiftUI.View color customisation
 * Accent color get / set
+
+> Key source files
+* ContentContainer.swift
+* ProductDetailsView.swift
