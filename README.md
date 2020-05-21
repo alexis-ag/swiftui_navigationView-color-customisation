@@ -13,5 +13,4 @@
 * ProductDetailsView.swift
 
 > Unsolved problems
-* reset Appearance to default
-** it's presented on SupportView
+* reset Appearance to default (it's presented on SupportView)
